@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TESTING.sln"
+    "dotnet.defaultSolution": "2D-Top-Down-Game.sln"
 }
