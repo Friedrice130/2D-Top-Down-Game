@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 929f26c4cfe9815419b4393ffaf0f6ef, type: 3}
+  m_Name: VendorItemShield
+  m_EditorClassIdentifier: 
+  shieldItem: {fileID: -2068018363353147893, guid: fc4b54687efe8984487871f9345495df, type: 3}
+  healthItem: {fileID: 0}
+  WeaponToSell: {fileID: 0}
+  Cost: 50
